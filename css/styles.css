@@ -1,0 +1,32 @@
+*{
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 42px;
+}
+a{
+    font-size: 24px;
+}
+img{
+    height: auto;
+    width: 50%;
+}
+h2{
+    font-size: 24px;
+    color: aqua;
+}
+li{
+    font-size: 18px;
+
+}p,li{
+    color: aliceblue;
+}
+p{
+    font-size: 20px;
+}
+a,h2{
+    font-weight: bold;
+}
